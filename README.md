@@ -5,3 +5,4 @@ This web applications is a day to day use application that will do following tas
 2. Generate a monthly expense report.
 3. Statistical analysis of overall expenses
 4. Track your investments
+5. Give suggestions according to investment goal.
